@@ -1,0 +1,6 @@
+.container
+{
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    /* background-image: radial-gradient(circle, #2e0537, #163f7e, #0079b5, #00b4cb, #12ebc3); */
+    height: 600px;
+}
